@@ -2,9 +2,9 @@
 
 ## Projekt
 
-- **Naziv**: _TBD_
+- **Naziv**: med-seminar
 - **Tip**: Seminar | Zadaća | Thesis
-- **Kolegij**: _TBD_
+- **Kolegij**: med-seminar
 - **LaTeX format**: FSB Seminar
 
 ## Trenutni fokus
